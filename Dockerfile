@@ -1,4 +1,4 @@
-FROM python:3-alpine
+FROM python:3
 LABEL maintainer "Kyle Lucy <kmlucy@gmail.com>"
 
 RUN pip install --no-cache-dir tailon
